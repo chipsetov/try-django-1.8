@@ -1,2 +1,20 @@
 .text-align-center {
 	text-align: center;
+}
+.jumbotron .btn-primary {
+	color: #0C4B33;
+	background: #18895E;
+	border-color: #0C4B33;
+}
+
+.myb {
+	color: #333;
+	background: #fff;
+	border-color: #333;
+}
+
+.myb:hover {
+	color: #0C4B33;
+	background: #18895E;
+	border-color: #0C4B33;
+}

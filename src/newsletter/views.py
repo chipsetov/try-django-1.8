@@ -63,7 +63,7 @@ def contact(request):
 		# print (email, message, fullname)
 		subject = 'Site contact form'
 		from_email = settings.EMAIL_HOST_USER
-		to_email = [from_email, 'xx@xx.xx']
+		to_email = [from_email, 'otheremail@xx.xx']
 		contact_message = "%s: %s via %s"%(
 			form_fullname, 
 			form_message, 
@@ -77,7 +77,7 @@ def contact(request):
 				from_email,
 				to_email,
 				html_message=some_html_message,
-				fail_silently=False) #True
+				fail_silently=False) #True in DB
 	context = {
 		"form": form,
 		"title": title,

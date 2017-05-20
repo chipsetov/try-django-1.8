@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"full",
+				"form_fullname"
+			],
+			[
+				"Sin",
+				"SingUp"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fa-",
+				"fa-5x"
+			],
+			[
 				"bor",
 				"border-color"
 			],
@@ -72,10 +92,6 @@
 				"cleaned_data"
 			],
 			[
-				"Sin",
-				"SingUpForm"
-			],
-			[
 				"Sing",
 				"SingUpAdmin"
 			],
@@ -88,60 +104,46 @@
 	"buffers":
 	[
 		{
-			"file": "src/templates/registration/registration_form.html",
+			"file": "src/trydjango/old_settings.py",
 			"settings":
 			{
-				"buffer_size": 529,
+				"buffer_size": 3451,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/registration/activation_email.txt",
+			"file": "src/trydjango/settings/__init__.py",
 			"settings":
 			{
-				"buffer_size": 307,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/registration/activation_complete.html",
-			"settings":
-			{
-				"buffer_size": 143,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/registration/activation_email_subject.txt",
-			"settings":
-			{
-				"buffer_size": 42,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/registration/login.html",
-			"settings":
-			{
-				"buffer_size": 730,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/trydjango/settings.py",
-			"settings":
-			{
-				"buffer_size": 3475,
+				"buffer_size": 110,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/navbar.html",
+			"file": "src/trydjango/settings/production.py",
 			"settings":
 			{
-				"buffer_size": 2646,
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/static_in_pro/our_static/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 277,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -150,16 +152,16 @@
 			"file": "src/templates/home.html",
 			"settings":
 			{
-				"buffer_size": 1707,
+				"buffer_size": 2524,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "static_in_env/static_root/css/navbar-static-top.css",
+			"file": "src/templates/navbar.html",
 			"settings":
 			{
-				"buffer_size": 303,
+				"buffer_size": 2712,
 				"line_ending": "Unix"
 			}
 		},
@@ -167,16 +169,16 @@
 			"file": "src/static_in_pro/our_static/css/navbar-static-top.css",
 			"settings":
 			{
-				"buffer_size": 504,
+				"buffer_size": 716,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/templates/base.html",
+			"file": "src/trydjango/settings/base.py",
 			"settings":
 			{
-				"buffer_size": 1077,
+				"buffer_size": 3468,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -215,25 +217,39 @@
 	"expanded_folders":
 	[
 		"/home/adminl/Documents/trydjango/src",
+		"/home/adminl/Documents/trydjango/src/newsletter",
 		"/home/adminl/Documents/trydjango/src/static_in_pro",
 		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static",
 		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static/css",
 		"/home/adminl/Documents/trydjango/src/templates",
 		"/home/adminl/Documents/trydjango/src/trydjango",
-		"/home/adminl/Documents/trydjango/static_in_env",
+		"/home/adminl/Documents/trydjango/src/trydjango/settings",
 		"/home/adminl/Documents/trydjango/static_in_env/static_root",
 		"/home/adminl/Documents/trydjango/static_in_env/static_root/css"
 	],
 	"file_history":
 	[
-		"/home/adminl/Documents/trydjango/src/templates/registration/password_reset_done.html",
+		"/home/adminl/Documents/trydjango/src/templates/head_css.html",
+		"/home/adminl/Documents/trydjango/src/templates/base.html",
 		"/home/adminl/Documents/trydjango/src/trydjango/views.py",
+		"/home/adminl/Documents/trydjango/src/templates/about.html",
+		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/adminl/Documents/trydjango/static_in_env/static_root/css/navbar-static-top.css",
 		"/home/adminl/Documents/trydjango/src/newsletter/views.py",
+		"/home/adminl/Documents/trydjango/src/templates/registration/registration_form.html",
+		"/home/adminl/Documents/trydjango/src/templates/registration/activation_email.txt",
+		"/home/adminl/Documents/trydjango/src/templates/registration/activation_complete.html",
+		"/home/adminl/Documents/trydjango/src/templates/registration/activation_email_subject.txt",
+		"/home/adminl/Documents/trydjango/src/templates/registration/login.html",
+		"/home/adminl/Documents/trydjango/src/trydjango/settings.py",
+		"/home/adminl/Documents/trydjango/src/templates/home.html",
+		"/home/adminl/Documents/trydjango/src/templates/navbar.html",
+		"/home/adminl/Documents/trydjango/src/trydjango/settings/__init__.py",
+		"/home/adminl/Documents/trydjango/src/templates/registration/password_reset_done.html",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/head_css.html",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/navbar.html",
 		"/home/adminl/Documents/trydjango/src/trydjango/urls.py",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/home.html",
-		"/home/adminl/Documents/trydjango/src/trydjango/settings.py",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/base.html",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/forms.html",
 		"/home/adminl/Documents/trydjango/src/newsletter/forms.py",
@@ -241,14 +257,13 @@
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/example_fluid.html",
 		"/home/adminl/Documents/trydjango/src/newsletter/templates/javascript.html",
 		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static/css/custom.css",
-		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static/css/navbar-static-top.css",
 		"/home/adminl/Documents/trydjango/src/newsletter/admin.py",
 		"/home/adminl/Documents/trydjango/src/newsletter/models.py",
 		"/home/adminl/Documents/trydjango/src/static_in_pro/our_static/img/example.txt"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -262,6 +277,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gmail.com",
 			"{%",
 			"True",
 			"custom.css",
@@ -286,57 +302,59 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/templates/registration/registration_form.html",
+					"file": "src/trydjango/old_settings.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 529,
+						"buffer_size": 3451,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								529,
-								529
+								389,
+								389
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/templates/registration/activation_email.txt",
+					"file": "src/trydjango/settings/__init__.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 307,
+						"buffer_size": 110,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								307,
-								307
+								103,
+								103
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -347,11 +365,11 @@
 				},
 				{
 					"buffer": 2,
-					"file": "src/templates/registration/activation_complete.html",
+					"file": "src/trydjango/settings/production.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 143,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -364,35 +382,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/templates/registration/activation_email_subject.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 42,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -402,48 +392,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "src/templates/registration/login.html",
+					"buffer": 3,
+					"file": "src/trydjango/settings/local.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 730,
+						"buffer_size": 3470,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								606,
-								606
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/trydjango/settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3437,
-								3437
+								511,
+								511
 							]
 						],
 						"settings":
@@ -453,93 +415,6 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2376.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "src/templates/navbar.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2646,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2016,
-								2016
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 264.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "src/templates/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1707,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								244,
-								244
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 66.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "static_in_env/static_root/css/navbar-static-top.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 303,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								77,
-								77
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -547,20 +422,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "src/static_in_pro/our_static/css/navbar-static-top.css",
+					"buffer": 4,
+					"file": "src/static_in_pro/our_static/css/custom.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 504,
+						"buffer_size": 277,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								358,
-								358
+								175,
+								175
 							]
 						],
 						"settings":
@@ -575,20 +450,49 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "src/templates/base.html",
+					"buffer": 5,
+					"file": "src/templates/home.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1077,
+						"buffer_size": 2524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								761,
-								761
+								1926,
+								1926
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/navbar.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2628,
+								2628
 							]
 						],
 						"settings":
@@ -598,10 +502,70 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 132.0,
+						"translation.y": 198.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/static_in_pro/our_static/css/navbar-static-top.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/trydjango/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3468,
+								3468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
